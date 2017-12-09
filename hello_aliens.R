@@ -1,5 +1,5 @@
 
-print("Hello message to aliens:
+print('Hello message to aliens:
   
       Hi Aliens,
       
@@ -12,4 +12,4 @@ print("Hello message to aliens:
       
       Looking forward to hearing back from you,
       
-      Chelsea")
+      Chelsea')
